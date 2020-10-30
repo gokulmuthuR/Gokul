@@ -4,3 +4,18 @@ print('FUNCTIONS :\n'
 'Sub\n'
 'Mul\n'
 'Div\n')
+print('************\n')
+a=float(input('enter 1 value\n:'))
+b=float(input('enter 2 value\n:'))
+print('values are:\n,a,b)
+operation=input('enter the operation to perform:\n')
+if operation =='+'
+print(a+b)
+elif operation =='-'
+print(a-b)
+elif operation =='*'
+print(a*b)
+elif operation =='/'
+print(a/b)
+else:
+print('please enter an valid operator:\n')

@@ -1,1 +1,6 @@
 print('\n Baic calculator \n')
+print('FUNCTIONS :\n'
+'Add\n'
+'Sub\n'
+'Mul\n'
+'Div\n')

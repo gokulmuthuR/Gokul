@@ -1,0 +1,20 @@
+print('\n CALCULTON \n')
+print('FUNCTIONS \n'
+'1) Add\n'
+'2) sub\n'
+'3) Mul\n'
+'4) Div\n')
+a=float(input('enter 1st value\n'))
+b=float(input('enter 2nd value\n'))
+print('your input values is :\n',a,b)
+operation=input('enter your function to operate:\n')
+if operation=='+'
+print(a+b)
+elif operation=='-'
+print(a-b)
+elif operation='*'
+print(a*b)
+elif operation=='/'
+print(a/b)
+else:
+print('enter an valid operation')
